@@ -1,0 +1,11 @@
+/Users/ethanh5/apps/coinFlip/obj/Debug/netcoreapp2.1/coinFlip.csprojAssemblyReference.cache
+/Users/ethanh5/apps/coinFlip/obj/Debug/netcoreapp2.1/coinFlip.csproj.CoreCompileInputs.cache
+/Users/ethanh5/apps/coinFlip/obj/Debug/netcoreapp2.1/coinFlip.AssemblyInfoInputs.cache
+/Users/ethanh5/apps/coinFlip/obj/Debug/netcoreapp2.1/coinFlip.AssemblyInfo.cs
+/Users/ethanh5/apps/coinFlip/bin/Debug/netcoreapp2.1/coinFlip.deps.json
+/Users/ethanh5/apps/coinFlip/bin/Debug/netcoreapp2.1/coinFlip.runtimeconfig.json
+/Users/ethanh5/apps/coinFlip/bin/Debug/netcoreapp2.1/coinFlip.runtimeconfig.dev.json
+/Users/ethanh5/apps/coinFlip/bin/Debug/netcoreapp2.1/coinFlip.dll
+/Users/ethanh5/apps/coinFlip/bin/Debug/netcoreapp2.1/coinFlip.pdb
+/Users/ethanh5/apps/coinFlip/obj/Debug/netcoreapp2.1/coinFlip.dll
+/Users/ethanh5/apps/coinFlip/obj/Debug/netcoreapp2.1/coinFlip.pdb
